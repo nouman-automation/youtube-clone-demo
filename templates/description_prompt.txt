@@ -1,0 +1,9 @@
+📝 YOUTUBE DESCRIPTION PROMPT
+
+Write an engaging YouTube description for this topic:
+[Topic]
+
+Include:
+- 2-line hook
+- 3 key takeaways
+- Hashtags and CTA (Subscribe + Comment)
