@@ -15,6 +15,7 @@ Example:
 Use ChatGPT to extract tone, structure, and pacing patterns.
 Example prompt:
 
+
 ---
 
 ## Step 3 – Script Generation
