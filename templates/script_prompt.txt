@@ -1,0 +1,11 @@
+🎥 YOUTUBE SCRIPT PROMPT
+
+Generate a YouTube video script in the tone and pacing of [Target Channel].
+Topic: [Video Topic]
+Include:
+- Engaging intro hook
+- 3 main points (each 1 paragraph)
+- Natural transitions
+- Call-to-action ending
+
+Keep it conversational, energetic, and time-matched (~4-5 minutes).
