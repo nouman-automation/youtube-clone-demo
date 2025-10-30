@@ -1,0 +1,10 @@
+🏷️ YOUTUBE TAGS PROMPT
+
+Generate 10 SEO tags related to:
+[Topic]
+Rules:
+- Include target keywords and synonyms
+- Avoid duplicates
+- Each tag under 3 words
+Example:
+“AI productivity”, “automation tools”, “YouTube scripts”
