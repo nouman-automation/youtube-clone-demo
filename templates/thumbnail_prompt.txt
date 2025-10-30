@@ -1,0 +1,9 @@
+🖼️ YOUTUBE THUMBNAIL PROMPT
+
+Generate 3 short thumbnail text ideas for the topic:
+[Topic]
+Rules:
+- 2-4 words maximum
+- Bold, emotional, curiosity-driven
+Example:
+“WHY YOU’RE STUCK” or “THE SECRET NO ONE TELLS”
