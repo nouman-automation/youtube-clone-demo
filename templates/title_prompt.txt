@@ -1,0 +1,10 @@
+🧠 YOUTUBE TITLE PROMPT
+
+Generate 5 YouTube titles for the following video topic:
+[Topic]
+Rules:
+- Must have emotional or curiosity hook
+- Use power words
+- Stay within 55-65 characters
+Example:
+“How I Tricked My Brain into Working 2x Faster”
