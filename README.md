@@ -1,19 +1,18 @@
-# 🎬 YouTube Clone Prompt System – Demo by Nouman Shehzad  
+# 🎬 YouTube Clone Prompt System – by Nouman Shehzad  
 
-This AI system replicates any YouTube channel’s tone, script structure, and style using ChatGPT workflows.  
-
----
-
-## 🔹 What It Does
-✅ Generates full video scripts  
-✅ Suggests SEO titles  
-✅ Creates thumbnail text ideas  
-✅ Writes optimized descriptions  
-✅ Produces keyword tags  
+This AI system replicates successful YouTube channels using ChatGPT.  
+It builds full video content systems — from **script to thumbnail text** — based on a channel’s tone, theme, and audience.
 
 ---
 
-## 🔹 Demo Example
-**Channel Type:** Motivation / Story-telling  
-**Prompt Example:**
+## ⚙️ Features
+✅ YouTube Script Generator (tone + structure match)  
+✅ SEO Title Creator  
+✅ Thumbnail Text Prompt  
+✅ Video Description Writer  
+✅ Keyword Tag Generator  
+
+---
+
+## 🧠 Example Prompt
 
